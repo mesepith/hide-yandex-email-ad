@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Hide Yandex Email Ad by Zahir",
+  "name": "AdBlocker for Yandex Mail",
   "version": "1.0.0",
   "description": "Hides the right-column and in-message ads on Yandex Mail (mail.yandex.ru).",
   "content_scripts": [
